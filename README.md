@@ -46,4 +46,4 @@ This project presents an interactive **HR Analytics Dashboard** created using **
 
 ## 📧 Contact
 
-For any queries or feedback, feel free to contact thirishashalini12@gmai.com via GitHub or email.
+For any queries or feedback, feel free to contact thirishashalini12@gmail.com via GitHub or email.
